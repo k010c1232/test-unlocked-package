@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "unlocked-core",
+      "default": true
+    }
+  ],
+  "namespace": "ns1_1232",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "48.0"
+}
